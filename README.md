@@ -18,3 +18,8 @@ I've previously had better success with <something else> which I have forgotten.
 7. Check occasionally to see if browser is still good.
 
 
+Alternative solutions:
+Log an Apple Ticket... I did this the first time, it took about 3 weeks before getting esculated - but by that stage I had deleted them by some automation way, possibly different to this as I had tried many ways.
+Wait 30 days for iCloud to auto empty recyle.
+Spend 1000s of hours try to figure it out
+Spend 10,000s of hours doing it manually
